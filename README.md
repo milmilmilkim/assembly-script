@@ -55,3 +55,8 @@ assemblyscript로 작성한 사칙연산과 팩토리얼
 typescript (컴파일 하면 자바스크립트와 동일하다)로 작성한 사칙연산과 팩토리얼
 ### src/ts/benchmark.ts
 micro-benchmarck로 성능 측정을 하는 모듈
+
+차트에 `chart.js` 사용
+
+## gh-pages
+https://milmilmilkim.github.io/assembly-script/
